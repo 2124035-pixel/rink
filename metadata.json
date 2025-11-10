@@ -1,0 +1,5 @@
+{
+  "name": "AI 資料要約ツール",
+  "description": "テキストを入力すると、AIが自動で要約を作成します。長い文章やレポートの内容を素早く把握するのに役立ちます。",
+  "requestFramePermissions": []
+}
